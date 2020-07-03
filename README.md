@@ -1,2 +1,2 @@
 # hello-world
-Creating first repository
+CS student
